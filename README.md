@@ -1,4 +1,4 @@
-# AskOmics website An Amazing Project
+# AskOmics website
 
 [![Build Status](https://travis-ci.org/askomics/website.svg?branch=master)](https://travis-ci.org/askomics/website)
 
@@ -41,7 +41,7 @@ Generated html are in the `output` directory
 make serve
 ```
 
-### Create a page
+### Create a new page
 
 ```bash
 make page
@@ -49,7 +49,7 @@ make page
 
 The new page will be created in the `pages` directory
 
-### Create a post
+### Create a new post
 
 ```bash
 make post
